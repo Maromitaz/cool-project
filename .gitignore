@@ -1,0 +1,8 @@
+*.sln
+*.vcxproj
+*.user
+.vs
+
+__pycache__
+
+*.dll
